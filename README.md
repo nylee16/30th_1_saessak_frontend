@@ -4,7 +4,7 @@
 30기 스타터 saessak팀의 '식물관리페이지' 프로젝트 repository입니다.   
 This project was created as part of the Sookmyung Women's University Programming Club SOLUX.
 
-이 프로젝트는 그동안 공부한 **프론트엔드 실력을 점검**하기 위해 진행하였습니다.
+이 프로젝트는 그동안 공부한 프론트엔드 실력을 점검하기 위해 진행하였습니다.
 현재 Supabase를 활용한 사용자별 식물 저장 기능은 활성화되어 있지 않으며, 추후 해당 기능을 포함하여 디벨롭할 예정입니다. 
 
 This project was created as part of my studies to assess my frontend development skills.   
